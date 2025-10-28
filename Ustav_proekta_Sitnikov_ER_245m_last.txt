@@ -1,14 +1,14 @@
-УСТАВ_ПРОЕКТА "Информационная система управления закупками"
+УСТАВ ПРОЕКТА "Информационная система управления закупками"
 
 Все документы, ссылки на которые на которые содержатся в настоящем документе являются его 
-неотъboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedемлемой частью.
-vboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modified
+неотъемлемой частью.
+
 Название проекта:
 Система управления закупками
 Менеджер проекта:
 Ситников Е.Р. гр. 2-45м
 Дата (MM/DD/YYYY):
-01.09.25vvboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modified
+01.09.25
 
 Версии (строки добавляются по необходимости):
 Версия
