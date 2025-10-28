@@ -1,22 +1,22 @@
-УСТАВ ПРОЕКТА "ИИИнформационная система управления закупками"
+УСТАВ ПРОЕКТА "Иvboth modifiedboth modifiedboth modifiedvvИИнформационная сboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedистема управления закупками"
 
 Все документы, ссылки на которые на которые содержатся в настоящем документе являются его 
-неотъемлемой частью.
-
+неотъboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedемлемой частью.
+vboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modified
 Название проекта:
 Система управления закупками
 Менеджер проекта:
 Ситников Е.Р. гр. 2-45м
 Дата (MM/DD/YYYY):
-01.09.25
+01.09.25vvboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modified
 
 Версии (строки добавляются по необходимости):
 Версия
 Дата
-(MM/DD/YYYY)
-Комментарий
+(MM/DD/YYYY)vboth modifiedboth modifiedboth modifiedboth modifiedboth modified
+Коммеboth modifiedboth modifiedboth modifiedboth modifiedнтарий
 1.0
-01.09.25
+01.09both modifiedboth modifiedboth modifiedsdgdjgldkfjgwy57235809347y-9383-90.25
 
 2.0
 
@@ -28,15 +28,12 @@
 
 
 
-
-Снабженец заключает договора с поставщиками, формирует заявки, контролирует 
-выполнение заказа, принимает товар на склад, списывает товар, выбирает поставщиков. 
-Логист организует доставку товаров - назначает автомобиль, водителя, формирует 
-маршрут с учётом грузоподъёмности автомобиля и параметров груза. Администратор 
+both modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedboth modifiedoth modifiedдоставку товаров - назначает автомобиль, водителя, формирует 
+маршрут с учётомboth modifiedboth modifiedboth modifiedboth modified грузоподъёмности автомобиля и параметров груза. Администратор 
 управляет учётными записями.
 
 
-
+both modifiedboth modifiedboth modifiedboth modifiedboth modified
 1.  Краткое описание проекта
 1.1	Название проекта
 Система управления закупками.
